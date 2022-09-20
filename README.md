@@ -9,9 +9,11 @@
 - ~~996长期受害者~~
 - 巨硬系列产品粉丝
 
+<!--
 ### My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=go,cpp,cs,py,php,mysql,mongodb,redis,cmake,docker,html,css,js,nodejs,vite,react,vue,electron&perline=10)](https://skillicons.dev)
+-->
 
 ### My Stats
 
