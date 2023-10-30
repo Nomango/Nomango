@@ -1,6 +1,6 @@
 ### Hi there, I'm [Nomango](https://nomango.dev)👋
 
-- 💻 A full-stack engineer
+- 💻 Full-stack engineer
 - 📚 Big fan of science fiction and mystery
 - 🇨🇳 Chinese
 
