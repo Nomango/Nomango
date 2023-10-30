@@ -1,13 +1,8 @@
-### Hi there, I'm [Nomango](https://nomango.cn)👋
+### Hi there, I'm [Nomango](https://nomango.dev)👋
 
-- 嗅觉受体对芒果🥭有排斥反应
-- 地位在猫屎之上，🐈主子之下
-- 臭打游戏的
-- 电子设备依赖症重度患者
-- 减肥永远提上日程
-- 尤克里里🎸吃灰很久
-- ~~996长期受害者~~
-- 巨硬系列产品粉丝
+- 💻 A full-stack engineer
+- 📚 Big fun of science fiction and mystery novels and movies
+- 🇨🇳 Chinese
 
 <!--
 ### My Skills
