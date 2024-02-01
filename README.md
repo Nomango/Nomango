@@ -1,6 +1,6 @@
 ### Hi there, I'm [Nomango](https://nomango.dev)👋
 
-- 💻 Full-stack engineer
+- 💻 Full-Stack Engineer
 - 🚴🏻 Velo Lover
 - 🇨🇳 Chinese
 
