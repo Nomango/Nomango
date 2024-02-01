@@ -1,7 +1,7 @@
 ### Hi there, I'm [Nomango](https://nomango.dev)👋
 
 - 💻 Full-stack engineer
-- 📚 Big fan of science fiction and mystery
+- 🚴🏻 Velo Lover
 - 🇨🇳 Chinese
 
 <!--
