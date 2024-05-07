@@ -12,5 +12,6 @@
 
 ### My Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nomango&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Nomango's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nomango&layout=compact&hide_border=true&hide=javascript,html" alt="Nomango's top langs" /></a> |
-| ------------- | ------------- |
+[![Nomango's Github stats](https://github-readme-stats.vercel.app/api?username=Nomango&show_icons=true&include_all_commits=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Nomango's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
