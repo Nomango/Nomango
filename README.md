@@ -12,6 +12,9 @@
 
 ### My Stats
 
-[![Nomango's Github stats](https://github-readme-stats.vercel.app/api?username=Nomango&show_icons=true&include_all_commits=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Nomango's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nomango&show_icons=true&include_all_commits=true&theme=default&custom_title=Github%20Stats" />
+</a>
+<a href="https://wakatime.com/@nom">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nom&layout=compact&langs_count=8" />
+</a>
