@@ -1,9 +1,9 @@
 ### 👋 Hi there, I'm [Nomango](https://nomango.dev)
 
-- 💻 Full-Stack Engineer
+- 👨🏻‍💻 Full-Stack Engineer
 - 🚴🏻 Velo Lover
 
-### 🧠 Over the years, I've learned
+### 💻 Technologies I use
 
 ![My Skills](https://skillicons.dev/icons?i=go,ts,cpp,py,vue,nuxtjs,react,nextjs,deno,tailwind,mysql,mongodb,redis,elasticsearch,nginx,docker,githubactions,supabase,cloudflare,sentry&perline=10)
 
