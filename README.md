@@ -5,7 +5,7 @@
 
 ### 💻 Technologies I use
 
-![My Skills](https://skillicons.dev/icons?i=go,ts,cpp,py,vue,nuxtjs,react,nextjs,deno,tailwind,mysql,mongodb,redis,elasticsearch,nginx,docker,githubactions,supabase,cloudflare,sentry&perline=10)
+![My Skills](https://skillicons.dev/icons?i=go,ts,cpp,py,vue,nuxtjs,react,nextjs,deno,tailwind,docker,githubactions,sentry,supabase,cloudflare,nginx,mysql,mongodb,redis,elasticsearch&perline=10)
 
 ### 📊 My Stats
 
